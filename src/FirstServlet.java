@@ -16,7 +16,7 @@ public class FirstServlet extends HttpServlet {
 
         writer.println("<html>");
         writer.println("<h3>Name list:</h3>");
-        writer.println("<p>Jessica<br>Grace<br>James<br>Albert</p>");
+        writer.println("<p>Alena<br>Grace<br>James<br>Albert</p>");
         writer.println("</html>");
     }
 }
